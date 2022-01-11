@@ -1,3 +1,3 @@
 # Pedie
 website
-https://github.com/MihranHakobyan/Pedie.git
+https://mihranhakobyan.github.io/Pedie/
